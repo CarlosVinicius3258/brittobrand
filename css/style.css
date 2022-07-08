@@ -215,7 +215,7 @@ button {
     width: 100%;
     float: left;
     background-image: url(../images/banner-bg.png);
-    height: auto;
+    height: 130vh;
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -250,12 +250,12 @@ button {
 .custom_menu li {
     float: left;
     font-size: 16px;
-    color: #f1f1f1;
+    color: #B5934E;
     padding: 6px 10px 0px 10px;
 }
 
 .custom_menu li a {
-    color: #f1f1f1;
+    color: #B5934E;
 }
 
 .custom_menu li a:hover {
@@ -274,10 +274,11 @@ button {
 }
 
 .logo {
-    width: 100%;
+    width: auto;
     float: left;
     text-align: center;
-    padding: 30px 0px;
+    padding-left: 80px;
+    padding-top: 10px;
 }
 
 
@@ -885,12 +886,12 @@ input.mail_bt::placeholder {
 .footer_menu li {
     float: left;
     font-size: 16px;
-    color: #f1f1f1;
+    color: #B5934E;
     padding: 20px 10px 0px 10px;
 }
 
 .footer_menu li a {
-    color: #f1f1f1;
+    color: #B5934E;
 }
 
 .footer_menu li a:hover {
@@ -907,12 +908,12 @@ input.mail_bt::placeholder {
 .location_main {
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #B5934E;
     padding: 30px 30px 30px 30px;
 }
 
 .location_main a {
-    color: #ffffff;
+    color: #B5934E;
 }
 
 .location_main a:hover {
@@ -935,14 +936,14 @@ input.mail_bt::placeholder {
 .copyright_text {
     width: 100%;
     float: left;
-    color: #ffffff;
+    color: #B5934E;
     text-align: center;
     font-size: 16px;
     margin: 20px 0px;
 }
 
 .copyright_text a {
-    color: #ffffff;
+    color: #B5934E;
 }
 
 .copyright_text a:hover {
